@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joelmueller-2003
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Node.js
+- 🌱 I’m currently learning Angular and Angular Material
 - 💞️ I’m looking to collaborate on interesting projects in Web-Dev
 - 📫 How to reach me: joelmueller@gmx.ch
 
