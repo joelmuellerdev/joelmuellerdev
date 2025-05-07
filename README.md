@@ -2,6 +2,6 @@
 
 - 👨‍💻 Multimedia Specialist on my journey to become a Frontend Developer
 - 📚 Learning to build Web-Apps using Angular and the Angular Material Library
-- 🚀 Building websites with Astro
+- 🚀 Building websites with Astro & WordPress
 - 🎓 iCompetence Student to be at [FHNW Fachhochschule Nordwestschweiz](https://www.fhnw.ch/) (Starting September 2025)
 - 🦉 Working at [ElderByte](https://elderbyte.com/)
